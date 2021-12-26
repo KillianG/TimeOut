@@ -1,0 +1,5 @@
+name: Time Out
+version: 0.0.1
+author: aryboo2
+depend: [WorldEdit]
+main: fr.aryboo2.timeOut.TimeOut
